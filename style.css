@@ -1,0 +1,38 @@
+body {
+    background-image: url("https://th.bing.com/th/id/R.a4bf58276d674626f52092e2194f79d8?rik=tOIt7Evezk1FJA&riu=http%3a%2f%2fwww.pixelstalk.net%2fwp-content%2fuploads%2f2016%2f10%2fBlurred-Wallpapers-HD-Free-Download.jpg&ehk=lz0byhncPk9wsbhOB6qWzRv0ZyZvKu0w%2bTKgZtm%2bZIw%3d&risl=&pid=ImgRaw&r=0")
+  }
+  h1 {
+    color: rgb(0, 225, 255);
+    text-align:center
+  }
+  h2 {
+    color: rgb(174, 0, 255);
+  }
+  p {
+    color: rgb(0, 140, 255);
+  }
+  
+  a:link {
+    color: rgb(0, 255, 242);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: rgb(0, 89, 255);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+    }
+    
